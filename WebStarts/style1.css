@@ -1,0 +1,11 @@
+body
+{
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+}
+p
+{
+    background-color: cornflowerblue;
+    font-style: oblique;
+    font-size: 25px;
+}
